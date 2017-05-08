@@ -1,0 +1,1 @@
+Simple Swing GUI application. A button is clicked and a "Hello World" message is returned.
